@@ -1,0 +1,17 @@
+ul li {
+    list-style-type: square;
+  }
+  body {
+    background: lightcyan;
+}
+h3{
+    margin: 50px 50px 50px 50px;
+    text-align:center
+}
+  p{
+    margin: 25px 50px 50px 50px;
+    text-align:center
+  }
+  li{
+    text-align:center
+  }
